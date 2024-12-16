@@ -20,7 +20,8 @@ body {
 }
 
 @media (max-width:768px) {
-.about-container { text-align: center;
+    .about-container { 
+    text-align: center;
 }
 }
 
@@ -112,7 +113,6 @@ li {
     overflow: hidden;
     padding: 20px 0;
     border-bottom: 1px solid #eee;
-
     display: flex;
     justify-content: space-between;
     align-items: center;
